@@ -28,8 +28,9 @@
 
 > 📷 게임 실제 플레이 장면
 
-![스크린샷1](https://your-image-url.com/screenshot1.png)  
-![스크린샷2](https://your-image-url.com/screenshot2.png)
+![스크린샷1](제목 없음.png)  
+![스크린샷2](2.png)
+![스크린샷2](3.png)
 
 ---
 
